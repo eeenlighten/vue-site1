@@ -89,7 +89,7 @@ export default {
     border-radius: 50%;
     position: absolute;
     left: 0; top: 0;
-    background-image: url(../assets/img/text_bg01.svg);
+    background-image: url(../assets/img/text_bg1.png);
     background-size: 160px;
 }
 .text__inner .text:nth-child(1) h3::before {
