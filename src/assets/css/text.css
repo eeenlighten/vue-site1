@@ -26,7 +26,7 @@
     border-radius: 50%;
     position: absolute;
     left: 0; top: 0;
-    background-image: url(../img/text_bg01.svg);
+    background-image: url(../img/text_bg01.png);
     background-size: 160px;
 }
 .text__inner .text:nth-child(1) h3::before {
